@@ -1,0 +1,1 @@
+# Plant-Disease-Detection-Using-Supervised-Learning-With-Deep-Neural-Network
